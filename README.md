@@ -3,10 +3,10 @@ Sets of ethereum smart contract written in solidity
 
 # Smart Contracts
  (1) ballot.sol  
-	(i) Smart contract to conduct election  
-       (ii) Here the Election Commisioner deploy the smart contract  
-       (iii) Election Commisioner add the voters  
-       (iv) Election Commisioner add the condidates contesting the election  
-       (v) General voters can only vote once  
-       (vi) Everyone can see how many votes a candidate have received  
-       (vii) Election Commisioner can view Voters,Candidates, number of Voters and number of Candidates  
+........*Smart contract to conduct election  
+........*Here the Election Commisioner deploy the smart contract  
+........*Election Commisioner add the voters  
+........*Election Commisioner add the condidates contesting the election  
+........*General voters can only vote once  
+........*Everyone can see how many votes a candidate have received  
+........*Election Commisioner can view Voters,Candidates, number of Voters and number of Candidates  
